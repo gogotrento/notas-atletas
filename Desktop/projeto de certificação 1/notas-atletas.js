@@ -38,3 +38,4 @@ calculaMediaValida() {
 console.log(nomeAtletas)
 console.log(notasObtidas) 
 console.log(calculaMediaValida)
+//Lucas Santos
